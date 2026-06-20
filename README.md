@@ -3,4 +3,4 @@
 
 🚧 Project Status: Ongoing
 
-This project is a web-based application designed to manage student gate pass requests digitally.
+This project is a web-based application designed to manage visitor gate pass requests digitally.
